@@ -1047,22 +1047,3 @@ plt.show()
     - Investigate the unique financial landscape of emergency care. Develop strategies to address potential disparities in access and reimbursement structures, ensuring financial sustainability for emergency services.
 
 These recommendations aim to address key insights from the analysis and contribute to the development of effective, inclusive, and sustainable healthcare strategies.
-
-
-```python
-print("aashi sethiya")
-```
-
-    aashi sethiya
-    
-
-
-```python
-# Handle missing values
-df.fillna(df.mean(), inplace=True)
-```
-
-
-```python
-
-```
